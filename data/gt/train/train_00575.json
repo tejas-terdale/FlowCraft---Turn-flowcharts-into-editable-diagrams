@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1600, "nodes": [{"id": 0, "label": "Process", "kind": "rect", "bbox": [831.7, 743.5, 1168.3, 856.5]}, {"id": 1, "label": "Queue Task", "kind": "rect", "bbox": [1403.7, 743.5, 1729.7, 856.5]}, {"id": 2, "label": "Retry", "kind": "rect", "bbox": [839.8, 1203.5, 1160.2, 1316.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 2, "dst": 0}]}

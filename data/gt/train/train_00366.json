@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Cache", "kind": "rect", "bbox": [1086.7, 233.5, 1338.3, 346.5]}, {"id": 1, "label": "Split", "kind": "rect", "bbox": [1517.2, 233.5, 1757.8, 346.5]}, {"id": 2, "label": "Queue Task", "kind": "rect", "bbox": [1089.7, 593.5, 1335.3, 706.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 0, "dst": 2}]}

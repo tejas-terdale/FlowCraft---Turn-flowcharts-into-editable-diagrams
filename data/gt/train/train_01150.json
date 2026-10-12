@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Cache", "kind": "rect", "bbox": [1404.4, 192.2, 1729.0, 297.8]}, {"id": 1, "label": "Store", "kind": "rect", "bbox": [1394.3, 462.2, 1739.0, 567.8]}, {"id": 2, "label": "Send Email", "kind": "rect", "bbox": [1394.7, 732.2, 1738.6, 837.8]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

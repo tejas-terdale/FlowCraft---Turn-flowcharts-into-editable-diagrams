@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1400, "nodes": [{"id": 0, "label": "Queue Task", "kind": "rect", "bbox": [1504.8, 250.2, 1770.2, 363.2]}, {"id": 1, "label": "Log Event", "kind": "rect", "bbox": [1079.7, 643.5, 1345.3, 756.5]}, {"id": 2, "label": "Quality Pass?", "kind": "diamond", "bbox": [1507.3, 603.5, 1767.7, 796.5]}], "edges": [{"src": 2, "dst": 0}, {"src": 2, "dst": 1}]}

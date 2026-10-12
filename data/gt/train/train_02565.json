@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Error?", "kind": "diamond", "bbox": [1704.1, 243.5, 2095.9, 436.5]}, {"id": 1, "label": "Retry?", "kind": "diamond", "bbox": [1715.7, 703.5, 2084.3, 896.5]}], "edges": [{"src": 0, "dst": 1}]}

@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1400, "nodes": [{"id": 0, "label": "Deploy", "kind": "rect", "bbox": [268.6, 250.2, 598.1, 363.2]}, {"id": 1, "label": "Start", "kind": "rect", "bbox": [262.8, 643.5, 603.8, 756.5]}, {"id": 2, "label": "Quality Pass?", "kind": "diamond", "bbox": [829.4, 603.5, 1170.6, 796.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

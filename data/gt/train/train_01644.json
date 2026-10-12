@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1400, "nodes": [{"id": 0, "label": "Quality Pass?", "kind": "diamond", "bbox": [274.8, 209.7, 658.5, 403.7]}, {"id": 1, "label": "Input", "kind": "rect", "bbox": [287.8, 643.0, 645.5, 757.0]}, {"id": 2, "label": "Test", "kind": "rect", "bbox": [285.7, 1036.3, 647.6, 1150.3]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

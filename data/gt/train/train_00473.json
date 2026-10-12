@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1400, "nodes": [{"id": 0, "label": "Write File", "kind": "rect", "bbox": [823.7, 791.0, 1176.3, 904.0]}, {"id": 1, "label": "Transform", "kind": "rect", "bbox": [1405.7, 791.0, 1727.6, 904.0]}, {"id": 2, "label": "Log Event", "kind": "rect", "bbox": [831.3, 1086.0, 1168.7, 1199.0]}], "edges": [{"src": 0, "dst": 1}, {"src": 0, "dst": 2}]}

@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Cache Hit?", "kind": "diamond", "bbox": [778.8, 1163.5, 1096.2, 1356.5]}, {"id": 1, "label": "Check Rules", "kind": "rect", "bbox": [1301.2, 1203.5, 1623.8, 1316.5]}, {"id": 2, "label": "Cache", "kind": "rect", "bbox": [1829.7, 1203.5, 2145.3, 1316.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 2, "dst": 1}]}

@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1400, "nodes": [{"id": 0, "label": "Store", "kind": "rect", "bbox": [313.6, 249.7, 686.4, 363.7]}, {"id": 1, "label": "Load Data", "kind": "rect", "bbox": [1001.2, 249.7, 1398.8, 363.7]}, {"id": 2, "label": "Retry?", "kind": "diamond", "bbox": [1704.5, 209.7, 2095.5, 403.7]}], "edges": [{"src": 0, "dst": 1}, {"src": 1, "dst": 2}]}

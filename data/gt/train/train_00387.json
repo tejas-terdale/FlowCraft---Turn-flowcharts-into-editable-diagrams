@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Publish", "kind": "rect", "bbox": [824.0, 233.0, 1176.0, 347.0]}, {"id": 1, "label": "Transform", "kind": "rect", "bbox": [269.7, 593.0, 597.0, 707.0]}, {"id": 2, "label": "Monitor", "kind": "rect", "bbox": [828.1, 593.0, 1171.9, 707.0]}], "edges": [{"src": 0, "dst": 2}, {"src": 1, "dst": 2}]}

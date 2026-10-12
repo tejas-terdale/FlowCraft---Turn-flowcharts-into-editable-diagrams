@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1400, "nodes": [{"id": 0, "label": "Input", "kind": "rect", "bbox": [1311.1, 250.2, 1613.9, 363.2]}, {"id": 1, "label": "End", "kind": "rect", "bbox": [1832.6, 250.2, 2142.4, 363.2]}], "edges": [{"src": 1, "dst": 0}]}

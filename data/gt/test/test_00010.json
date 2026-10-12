@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1600, "nodes": [{"id": 0, "label": "Read File", "kind": "rect", "bbox": [825.4, 742.5, 1174.6, 857.5]}, {"id": 1, "label": "More Data?", "kind": "diamond", "bbox": [839.0, 1162.5, 1161.0, 1357.5]}, {"id": 2, "label": "Transform", "kind": "rect", "bbox": [1396.6, 1202.5, 1736.7, 1317.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 2, "dst": 1}]}

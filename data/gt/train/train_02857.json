@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1300, "nodes": [{"id": 0, "label": "Publish", "kind": "rect", "bbox": [315.7, 593.0, 684.3, 707.0]}, {"id": 1, "label": "Retry", "kind": "rect", "bbox": [306.1, 953.0, 693.9, 1067.0]}, {"id": 2, "label": "Validate Data", "kind": "rect", "bbox": [1002.7, 953.0, 1397.3, 1067.0]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

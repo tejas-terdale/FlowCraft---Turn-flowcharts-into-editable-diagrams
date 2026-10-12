@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Validate", "kind": "rect", "bbox": [241.7, 233.0, 483.3, 347.0]}, {"id": 1, "label": "Error?", "kind": "diamond", "bbox": [233.0, 553.0, 492.0, 747.0]}, {"id": 2, "label": "Generate Report", "kind": "rect", "bbox": [659.4, 593.0, 915.6, 707.0]}], "edges": [{"src": 1, "dst": 0}, {"src": 2, "dst": 1}]}

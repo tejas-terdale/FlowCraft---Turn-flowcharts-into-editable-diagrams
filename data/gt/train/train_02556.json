@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Clean Data", "kind": "rect", "bbox": [257.1, 232.5, 609.6, 347.5]}, {"id": 1, "label": "Publish", "kind": "rect", "bbox": [271.3, 592.5, 595.4, 707.5]}, {"id": 2, "label": "Review", "kind": "rect", "bbox": [837.5, 592.5, 1162.5, 707.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 1, "dst": 2}]}

@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1600, "nodes": [{"id": 0, "label": "Transform", "kind": "rect", "bbox": [269.5, 283.0, 663.8, 397.0]}, {"id": 1, "label": "Parse Input", "kind": "rect", "bbox": [272.6, 743.0, 660.8, 857.0]}, {"id": 2, "label": "Monitor", "kind": "rect", "bbox": [284.7, 1203.0, 648.6, 1317.0]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

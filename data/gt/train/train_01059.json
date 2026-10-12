@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1400, "nodes": [{"id": 0, "label": "Send Email", "kind": "rect", "bbox": [1073.4, 249.2, 1326.6, 364.2]}, {"id": 1, "label": "Save", "kind": "rect", "bbox": [1497.6, 249.2, 1742.4, 364.2]}], "edges": [{"src": 1, "dst": 0}]}

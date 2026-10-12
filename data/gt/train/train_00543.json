@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Is Empty?", "kind": "diamond", "bbox": [300.2, 1162.5, 699.8, 1357.5]}, {"id": 1, "label": "Write File", "kind": "rect", "bbox": [1013.4, 1202.5, 1386.6, 1317.5]}], "edges": [{"src": 0, "dst": 1}]}

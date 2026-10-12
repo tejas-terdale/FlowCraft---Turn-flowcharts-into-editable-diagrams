@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Merge", "kind": "rect", "bbox": [1839.4, 743.5, 2135.6, 856.5]}, {"id": 1, "label": "Input", "kind": "rect", "bbox": [1301.1, 1203.5, 1623.9, 1316.5]}, {"id": 2, "label": "Generate Report", "kind": "rect", "bbox": [1836.0, 1203.5, 2139.0, 1316.5]}], "edges": [{"src": 2, "dst": 0}, {"src": 2, "dst": 1}]}

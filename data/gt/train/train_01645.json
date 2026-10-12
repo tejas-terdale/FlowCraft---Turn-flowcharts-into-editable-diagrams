@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1600, "nodes": [{"id": 0, "label": "Notify", "kind": "rect", "bbox": [920.2, 1203.0, 1279.8, 1317.0]}, {"id": 1, "label": "Log Event", "kind": "rect", "bbox": [1544.4, 1203.0, 1922.3, 1317.0]}], "edges": [{"src": 1, "dst": 0}]}

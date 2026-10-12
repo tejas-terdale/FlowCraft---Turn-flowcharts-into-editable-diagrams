@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Collect Data", "kind": "rect", "bbox": [830.6, 233.5, 1169.4, 346.5]}, {"id": 1, "label": "Archive?", "kind": "diamond", "bbox": [1395.0, 193.5, 1738.3, 386.5]}, {"id": 2, "label": "Send Email", "kind": "rect", "bbox": [1406.3, 593.5, 1727.0, 706.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

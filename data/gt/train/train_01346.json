@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Retry?", "kind": "diamond", "bbox": [1015.9, 702.5, 1384.1, 897.5]}, {"id": 1, "label": "Quality Pass?", "kind": "diamond", "bbox": [1017.1, 1162.5, 1382.9, 1357.5]}, {"id": 2, "label": "Read File", "kind": "rect", "bbox": [1705.6, 1202.5, 2094.4, 1317.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 1, "dst": 2}]}

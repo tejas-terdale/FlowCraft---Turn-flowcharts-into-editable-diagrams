@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1400, "nodes": [{"id": 0, "label": "Validate", "kind": "rect", "bbox": [283.9, 249.2, 649.5, 364.2]}, {"id": 1, "label": "Merge", "kind": "rect", "bbox": [915.5, 249.2, 1284.5, 364.2]}, {"id": 2, "label": "Queue Task", "kind": "rect", "bbox": [1546.1, 249.2, 1920.6, 364.2]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

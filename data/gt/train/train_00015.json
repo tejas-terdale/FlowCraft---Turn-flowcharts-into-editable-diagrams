@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Monitor", "kind": "rect", "bbox": [781.5, 283.0, 1093.5, 397.0]}, {"id": 1, "label": "Input", "kind": "rect", "bbox": [1303.8, 283.0, 1621.2, 397.0]}, {"id": 2, "label": "Fetch", "kind": "rect", "bbox": [1308.9, 743.0, 1616.1, 857.0]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

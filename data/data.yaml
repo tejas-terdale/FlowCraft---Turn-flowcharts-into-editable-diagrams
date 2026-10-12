@@ -1,0 +1,7 @@
+path: D:\Sem 5\CP\DL CP\yolo 3\flowchart-to-drawio (1)\flowchart-to-drawio\data
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: rect
+  1: diamond

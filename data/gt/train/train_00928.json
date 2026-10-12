@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1600, "nodes": [{"id": 0, "label": "Check Req", "kind": "diamond", "bbox": [839.3, 703.5, 1160.7, 896.5]}, {"id": 1, "label": "Clean Data", "kind": "rect", "bbox": [838.3, 1203.5, 1161.7, 1316.5]}, {"id": 2, "label": "Parse Input", "kind": "rect", "bbox": [1391.0, 1203.5, 1742.3, 1316.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

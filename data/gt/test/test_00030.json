@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Start", "kind": "rect", "bbox": [1397.6, 592.5, 1735.7, 707.5]}, {"id": 1, "label": "Auth Verify", "kind": "rect", "bbox": [1396.1, 952.5, 1737.3, 1067.5]}], "edges": [{"src": 1, "dst": 0}]}

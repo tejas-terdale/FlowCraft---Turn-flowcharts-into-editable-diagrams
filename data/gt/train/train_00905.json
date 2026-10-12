@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1600, "nodes": [{"id": 0, "label": "Test", "kind": "rect", "bbox": [260.6, 1260.0, 606.1, 1375.0]}, {"id": 1, "label": "Process", "kind": "rect", "bbox": [835.9, 1260.0, 1164.1, 1375.0]}, {"id": 2, "label": "Archive?", "kind": "diamond", "bbox": [1398.0, 1220.1, 1735.3, 1414.9]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

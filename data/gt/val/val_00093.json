@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1400, "nodes": [{"id": 0, "label": "Load Data", "kind": "rect", "bbox": [242.7, 1085.5, 532.3, 1199.5]}, {"id": 1, "label": "Split", "kind": "rect", "bbox": [715.5, 1085.5, 1009.5, 1199.5]}], "edges": [{"src": 0, "dst": 1}]}

@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1300, "nodes": [{"id": 0, "label": "Monitor", "kind": "rect", "bbox": [1830.3, 232.5, 2144.7, 347.5]}, {"id": 1, "label": "Export", "kind": "rect", "bbox": [1301.5, 592.5, 1623.5, 707.5]}, {"id": 2, "label": "Collect Data", "kind": "rect", "bbox": [1823.6, 592.5, 2151.4, 707.5]}], "edges": [{"src": 0, "dst": 2}, {"src": 1, "dst": 2}]}

@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1300, "nodes": [{"id": 0, "label": "Clean Data", "kind": "rect", "bbox": [781.9, 953.0, 1093.1, 1067.0]}, {"id": 1, "label": "Error Handler", "kind": "rect", "bbox": [1297.9, 953.0, 1627.1, 1067.0]}, {"id": 2, "label": "Compute", "kind": "rect", "bbox": [1834.2, 953.0, 2140.8, 1067.0]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Merge", "kind": "rect", "bbox": [833.9, 593.0, 1166.1, 707.0]}, {"id": 1, "label": "More Data?", "kind": "diamond", "bbox": [829.9, 913.0, 1170.1, 1107.0]}, {"id": 2, "label": "Error?", "kind": "diamond", "bbox": [1399.8, 913.0, 1733.6, 1107.0]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

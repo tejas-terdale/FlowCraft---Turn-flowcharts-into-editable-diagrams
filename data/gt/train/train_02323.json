@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Done?", "kind": "diamond", "bbox": [299.2, 242.5, 700.8, 437.5]}, {"id": 1, "label": "Approved?", "kind": "diamond", "bbox": [1004.9, 242.5, 1395.1, 437.5]}, {"id": 2, "label": "Error Handler", "kind": "rect", "bbox": [1000.6, 742.5, 1399.4, 857.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 1, "dst": 2}]}

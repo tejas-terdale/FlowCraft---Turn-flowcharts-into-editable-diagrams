@@ -1,0 +1,8 @@
+opencv-python
+numpy
+pytesseract
+flask
+ultralytics
+pillow
+# PyTorch: on Windows install the CUDA build for your GPU first, see README.md
+torch

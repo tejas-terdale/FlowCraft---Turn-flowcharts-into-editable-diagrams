@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Approved?", "kind": "diamond", "bbox": [1009.0, 243.0, 1391.0, 437.0]}, {"id": 1, "label": "Quality Pass?", "kind": "diamond", "bbox": [1705.1, 243.0, 2094.9, 437.0]}], "edges": [{"src": 0, "dst": 1}]}

@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Valid?", "kind": "diamond", "bbox": [308.4, 242.5, 691.6, 437.5]}, {"id": 1, "label": "Write File", "kind": "rect", "bbox": [1008.1, 282.5, 1391.9, 397.5]}, {"id": 2, "label": "Validate Data", "kind": "rect", "bbox": [313.2, 742.5, 686.8, 857.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 2, "dst": 0}]}

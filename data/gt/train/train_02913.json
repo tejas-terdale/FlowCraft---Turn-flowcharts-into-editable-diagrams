@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1300, "nodes": [{"id": 0, "label": "Send Email", "kind": "rect", "bbox": [1011.4, 461.2, 1388.6, 568.8]}, {"id": 1, "label": "Error Handler", "kind": "rect", "bbox": [1016.2, 731.2, 1383.8, 838.8]}], "edges": [{"src": 0, "dst": 1}]}

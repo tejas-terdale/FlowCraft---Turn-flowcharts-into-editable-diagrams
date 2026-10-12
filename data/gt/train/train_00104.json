@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Cache", "kind": "rect", "bbox": [271.1, 461.2, 595.6, 568.8]}, {"id": 1, "label": "Write File", "kind": "rect", "bbox": [267.1, 731.2, 599.6, 838.8]}, {"id": 2, "label": "Monitor", "kind": "rect", "bbox": [822.2, 731.2, 1177.8, 838.8]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

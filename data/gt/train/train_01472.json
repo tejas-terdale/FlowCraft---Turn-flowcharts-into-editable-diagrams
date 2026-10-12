@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1600, "nodes": [{"id": 0, "label": "Approved?", "kind": "diamond", "bbox": [266.7, 242.5, 600.0, 437.5]}, {"id": 1, "label": "Monitor", "kind": "rect", "bbox": [834.2, 282.5, 1165.8, 397.5]}, {"id": 2, "label": "Parse Input", "kind": "rect", "bbox": [1391.6, 282.5, 1741.8, 397.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 1}]}

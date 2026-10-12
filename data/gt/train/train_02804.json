@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1400, "nodes": [{"id": 0, "label": "Retry?", "kind": "diamond", "bbox": [317.4, 603.0, 682.6, 797.0]}, {"id": 1, "label": "Check Rules", "kind": "rect", "bbox": [1017.2, 643.0, 1382.8, 757.0]}, {"id": 2, "label": "Transform", "kind": "rect", "bbox": [1011.3, 1036.3, 1388.7, 1150.3]}], "edges": [{"src": 0, "dst": 1}, {"src": 1, "dst": 2}]}

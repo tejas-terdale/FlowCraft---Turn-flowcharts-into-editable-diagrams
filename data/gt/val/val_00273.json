@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Merge", "kind": "rect", "bbox": [1015.7, 282.5, 1384.3, 397.5]}, {"id": 1, "label": "Build", "kind": "rect", "bbox": [1708.5, 282.5, 2091.5, 397.5]}, {"id": 2, "label": "Send Email", "kind": "rect", "bbox": [1714.6, 742.5, 2085.4, 857.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

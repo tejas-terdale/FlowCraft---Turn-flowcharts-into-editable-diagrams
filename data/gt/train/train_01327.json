@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1400, "nodes": [{"id": 0, "label": "Notify", "kind": "rect", "bbox": [241.1, 249.2, 533.9, 364.2]}, {"id": 1, "label": "Quality Pass?", "kind": "diamond", "bbox": [716.9, 209.2, 1008.1, 404.2]}, {"id": 2, "label": "Write File", "kind": "rect", "bbox": [247.1, 642.5, 527.9, 757.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 0}]}

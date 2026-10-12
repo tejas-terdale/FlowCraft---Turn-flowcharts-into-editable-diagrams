@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1600, "nodes": [{"id": 0, "label": "Send Email", "kind": "rect", "bbox": [282.1, 743.5, 651.3, 856.5]}, {"id": 1, "label": "Split", "kind": "rect", "bbox": [272.7, 1203.5, 660.7, 1316.5]}, {"id": 2, "label": "Export", "kind": "rect", "bbox": [910.9, 1203.5, 1289.1, 1316.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 1, "dst": 2}]}

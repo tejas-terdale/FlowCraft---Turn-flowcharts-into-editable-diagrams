@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1300, "nodes": [{"id": 0, "label": "Monitor", "kind": "rect", "bbox": [262.9, 593.5, 562.1, 706.5]}, {"id": 1, "label": "Check Req", "kind": "diamond", "bbox": [255.5, 913.5, 569.5, 1106.5]}], "edges": [{"src": 1, "dst": 0}]}

@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1400, "nodes": [{"id": 0, "label": "Log Event", "kind": "rect", "bbox": [264.7, 249.2, 602.0, 364.2]}, {"id": 1, "label": "Merge", "kind": "rect", "bbox": [837.5, 249.2, 1162.5, 364.2]}, {"id": 2, "label": "Cache Hit?", "kind": "diamond", "bbox": [829.0, 602.5, 1171.0, 797.5]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

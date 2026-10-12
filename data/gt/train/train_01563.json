@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1600, "nodes": [{"id": 0, "label": "Queue Task", "kind": "rect", "bbox": [1504.7, 225.0, 1770.3, 340.0]}, {"id": 1, "label": "Cache Hit?", "kind": "diamond", "bbox": [1511.4, 530.1, 1763.6, 724.9]}, {"id": 2, "label": "Validate", "kind": "rect", "bbox": [1506.0, 915.0, 1769.0, 1030.0]}], "edges": [{"src": 1, "dst": 0}, {"src": 1, "dst": 2}]}

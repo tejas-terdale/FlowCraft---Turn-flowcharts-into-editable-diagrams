@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1300, "nodes": [{"id": 0, "label": "Compute", "kind": "rect", "bbox": [261.6, 1001.2, 605.1, 1108.8]}, {"id": 1, "label": "Read File", "kind": "rect", "bbox": [830.0, 1001.2, 1170.0, 1108.8]}], "edges": [{"src": 0, "dst": 1}]}

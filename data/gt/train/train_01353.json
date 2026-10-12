@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1300, "nodes": [{"id": 0, "label": "Cache Hit?", "kind": "diamond", "bbox": [912.5, 553.0, 1287.5, 747.0]}, {"id": 1, "label": "Output", "kind": "rect", "bbox": [908.7, 953.0, 1291.3, 1067.0]}], "edges": [{"src": 0, "dst": 1}]}

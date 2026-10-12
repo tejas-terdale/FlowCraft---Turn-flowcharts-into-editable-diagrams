@@ -1,0 +1,1 @@
+{"width": 2400, "height": 1600, "nodes": [{"id": 0, "label": "Review", "kind": "rect", "bbox": [304.3, 570.5, 695.7, 684.5]}, {"id": 1, "label": "Queue Task", "kind": "rect", "bbox": [311.9, 915.5, 688.1, 1029.5]}], "edges": [{"src": 0, "dst": 1}]}

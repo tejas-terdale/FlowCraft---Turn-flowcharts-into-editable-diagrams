@@ -1,0 +1,1 @@
+{"width": 2200, "height": 1600, "nodes": [{"id": 0, "label": "Save", "kind": "rect", "bbox": [282.4, 283.5, 651.0, 396.5]}, {"id": 1, "label": "Archive?", "kind": "diamond", "bbox": [918.7, 243.5, 1281.3, 436.5]}, {"id": 2, "label": "Cache Hit?", "kind": "diamond", "bbox": [284.5, 703.5, 648.9, 896.5]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 0}]}

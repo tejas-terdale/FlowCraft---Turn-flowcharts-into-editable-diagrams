@@ -1,0 +1,1 @@
+{"width": 2000, "height": 1400, "nodes": [{"id": 0, "label": "Parse Input", "kind": "rect", "bbox": [271.7, 642.5, 595.0, 757.5]}, {"id": 1, "label": "Queue Task", "kind": "rect", "bbox": [824.0, 642.5, 1176.0, 757.5]}, {"id": 2, "label": "Publish", "kind": "rect", "bbox": [255.3, 1035.8, 611.4, 1150.8]}], "edges": [{"src": 0, "dst": 1}, {"src": 2, "dst": 0}]}
